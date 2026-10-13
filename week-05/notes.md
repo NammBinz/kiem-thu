@@ -1,7 +1,5 @@
 # GHI CHÚ TUẦN 05 (WEEK-05)
 
-**Họ và tên:** Phạm Đình Trung  
-
 ---
 
 ## 1. Trả lời câu hỏi đọc tài liệu (trước buổi học)
