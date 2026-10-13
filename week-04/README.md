@@ -4,7 +4,7 @@ python -m pip show selenium# Bài thực hành kiểm thử tự động - Tuầ
 - Python
 - Google Chrome
 - Selenium
-- pytest
+- pytest    
 
 ## Cài thư viện
 
