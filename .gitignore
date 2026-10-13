@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Moi truong ao
+.venv/
+venv/
+
+# Bao cao kiem thu
+report.html
+reports/
